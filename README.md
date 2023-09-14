@@ -1,6 +1,23 @@
 # CPE322
 # STUDENT LEARNING OUTCOMES
 
+> CPE 322 is also known as Engineering Design VI and is meant to ready an engineering student in the following disiplines:
+
+The First Assignment includes welcoming the student to the use of Markdown to have more ways to convey their information
+- Including making lists
+  -  In different ways and
+1. Of varying styles
+   - To convey the message
+
+This includes images as well 
+
+![Image stating welcome.](https://i.pinimg.com/originals/a9/e3/ec/a9e3ec800f31333fe3cdcf48b46a676c.gif)
+
+And segments of code
+```
+print("Hello World")
+```
+
 ## Program Outcome 1: (Complex Problem Solving)
 
 ### 1.3 (Engineering foundations) 
