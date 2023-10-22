@@ -1,6 +1,6 @@
 # Half Adder
-![Half Adder GTKWave](https://github.com/BFox03/CPE322/Lab1/ha.png)
+![Half Adder GTKWave](https://github.com/BFox03/CPE322/Lab1/ha.PNG)
 # D Flip-Flop 
-![D Flip-Flop GTKWave](https://github.com/BFox03/CPE322/Lab1/dff.png)
+![D Flip-Flop GTKWave](https://github.com/BFox03/CPE322/Lab1/dff.PNG)
 # 4-to-1 Multiplexer
-![4-to-1 Multiplexer GTKWave](https://github.com/BFox03/CPE322/Lab1/mux.png)
+![4-to-1 Multiplexer GTKWave](https://github.com/BFox03/CPE322/Lab1/mux.PNG)
